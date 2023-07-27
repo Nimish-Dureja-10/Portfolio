@@ -13,10 +13,10 @@ const Services = () => {
             <h3>Frontend Development</h3>
           </div>
           <ul className='service__list'>
-            <li>
+{/*             <li>
               <BsCheckLg className='service__list-icon'/>
               <p>Responsible for building the user interface and user experience of websites and web applications.</p>
-            </li>
+            </li> */}
             <li>
               <BsCheckLg className='service__list-icon'/>
               <p>Ensuring that the website or application looks and functions well on various devices and screen sizes, including desktops, laptops, tablets, and smartphones.</p>
