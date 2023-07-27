@@ -2,7 +2,9 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.png'
-
+import IMG3 from '../../assets/portfolio3.png'
+import IMG4 from '../../assets/portfolio4.png'
+import IMG5 from '../../assets/portfolio5.png'
 
 const data = [
   {
@@ -28,24 +30,24 @@ const data = [
   },
   {
     id: 4,
-    image: IMG1,
+    image: IMG4,
     title: 'Bakery Site',
     github: 'https://github.com/Nimish-Dureja-10/BakerySite',
     demo: 'https://github.com/Nimish-Dureja-10/BakerySite',
   },
   {
     id: 5,
-    image: IMG1,
+    image: IMG3,
     title: 'Tindog Website',
     github: 'https://github.com/Nimish-Dureja-10/Tindog',
-    demo: 'https://github.com/Nimish-Dureja-10/Tindog',
+    demo: 'https://tindog-liard-six.vercel.app/',
   },
   {
     id: 6,
-    image: IMG1,
-    title: "Client's Portfolio",
-    github: 'https://aayushmishra.in/',
-    demo: 'https://aayushmishra.in/',
+    image: IMG5,
+    title: "My Portfolio",
+    github: 'https://github.com/Nimish-Dureja-10/Portfolio',
+    demo: 'http://portfolio-five-sepia-80.vercel.app/',
   },
 ]
 
