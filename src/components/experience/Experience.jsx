@@ -35,6 +35,34 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon' />
               <div>
+                <h4>REACT JS</h4>
+{/*                 <small className='text-light'>Experienced</small> */}
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>NEXT JS</h4>
+{/*                 <small className='text-light'>Experienced</small> */}
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>TYPESCRIPT</h4>
+{/*                 <small className='text-light'>Experienced</small> */}
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>REDUX TOOLKIT</h4>
+{/*                 <small className='text-light'>Experienced</small> */}
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon' />
+              <div>
                 <h4>BOOTSTRAP</h4>
 {/*                 <small className='text-light'>Experienced</small> */}
               </div>
@@ -42,14 +70,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>TAILWIND</h4>
-{/*                 <small className='text-light'>Experienced</small> */}
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>REACT JS</h4>
+                <h4>TAILWIND CSS</h4>
 {/*                 <small className='text-light'>Experienced</small> */}
               </div>
             </article>
@@ -62,6 +83,13 @@ const Experience = () => {
               <BsFillPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>NODE JS</h4>
+{/*                 <small className='text-light'>Experienced</small> */}
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>EXPRESS JS</h4>
 {/*                 <small className='text-light'>Experienced</small> */}
               </div>
             </article>
@@ -89,7 +117,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>DJANGO</h4>
+                <h4>FLASK</h4>
 {/*                 <small className='text-light'>Experienced</small> */}
               </div>
             </article>
