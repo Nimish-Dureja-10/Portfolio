@@ -7,14 +7,15 @@ import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.png'
 import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
+import IMG6 from '../../assets/portfolio6.png'
 
 const data = [
   {
-    id: 1,
-    image: IMG0,
-    title: 'NewsX',
-    github: 'https://github.com/Nimish-Dureja-10/NewX',
-    demo: 'https://news-x-frontend.vercel.app',
+    id:1,
+    image:IMG6,
+    title:"JobSeekr",
+    github:"https://github.com/Nimish-Dureja-10/JobSeekr",
+    demo:"https://jobseekr-e4gk.onrender.com",
     disable:true
   },
   {
@@ -24,22 +25,30 @@ const data = [
     github: 'https://github.com/Nimish-Dureja-10/ecommerce-website',
     demo: 'https://ecommerce-frontend-ashen-sigma.vercel.app',
     disable:true
-  },
-  {
-    id: 7,
-    image: IMG5,
-    title: "My Portfolio",
-    github: 'https://github.com/Nimish-Dureja-10/Portfolio',
-    demo: 'http://portfolio-five-sepia-80.vercel.app',
+  }
+  ,{
+    id: 3,
+    image: IMG0,
+    title: 'NewsX',
+    github: 'https://github.com/Nimish-Dureja-10/NewX',
+    demo: 'https://news-x-frontend.vercel.app',
     disable:true
   },
   {
-    id: 3,
+    id: 4,
     image: IMG1,
     title: 'AirBnb Clone',
     github: 'https://github.com/Nimish-Dureja-10/airbnb',
     demo: 'https://github.com/Nimish-Dureja-10/airbnb',
     disable:false
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: "My Portfolio",
+    github: 'https://github.com/Nimish-Dureja-10/Portfolio',
+    demo: 'http://portfolio-five-sepia-80.vercel.app',
+    disable:true
   },
   {
     id: 6,
@@ -50,7 +59,7 @@ const data = [
     disable:true
   },
   {
-    id: 4,
+    id: 7,
     image: IMG2,
     title: 'Part-Time Job Protal',
     github: 'https://github.com/itsPriyanshuhere/Part-Timerz',
@@ -58,7 +67,7 @@ const data = [
     disable:false
   },
   {
-    id: 5,
+    id: 8,
     image: IMG4,
     title: 'Bakery Site',
     github: 'https://github.com/Nimish-Dureja-10/BakerySite',
